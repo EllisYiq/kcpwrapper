@@ -1,0 +1,10 @@
+/home/nincool/working/kcpwrapper/build/CMakeFiles/install/strip.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/install/local.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/install.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/list_install_components.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/rebuild_cache.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/edit_cache.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/sender.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/receiver.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/kcp_wrapper.dir
+/home/nincool/working/kcpwrapper/build/CMakeFiles/kcp.dir
